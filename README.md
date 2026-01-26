@@ -1,19 +1,47 @@
-# AlgoToArchitecture 🚀
+## 📂 Project Structure
 
-## 🎯 Goals
+src/main/java/com/pooja/interviewprep
+├── dsa              # NeetCode 150 + DSA topics
+├── lld              # Low-Level Design case studies
+├── designpatterns   # GoF Design Patterns
+├── solid            # SOLID principles with examples
+├── systemdesign     # System Design building blocks
+└── common            # Shared utilities and demos
 
-- Build strong problem-solving fundamentals
-- Design clean, extensible systems
-- Practice real-world backend architecture patterns
-- Prepare for senior backend engineering interviews
 
+## 🧠 Topics Covered
 
-## 🛠 Tech Stack
+### Data Structures & Algorithms
+- Arrays & Hashing
+- Two Pointers
+- Sliding Window
+- Stack & Queue
+- Binary Search
+- Linked List
+- Trees & Graphs
+- Dynamic Programming
+- Greedy
+- Bit Manipulation
 
--Java
--Data Structures and Algorithms
--System Design 
-  -LLD
-  -HLD
--Design Patterns & SOLID principles
+### Low-Level Design (LLD)
+- Parking Lot
+- Elevator System
+- Cache (LRU, LFU)
+- BookMyShow
+- ATM System
 
+### Design Patterns
+- Creational (Singleton, Factory, Builder, etc.)
+- Structural (Adapter, Decorator, Proxy, etc.)
+- Behavioral (Strategy, Observer, Command, etc.)
+
+### SOLID Principles
+- SRP, OCP, LSP, ISP, DIP
+- Real-world examples
+
+### System Design
+- Rate Limiter
+- URL Shortener
+- Notification Service
+- Distributed Cache
+- Logging System
