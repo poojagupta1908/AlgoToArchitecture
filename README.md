@@ -1,12 +1,19 @@
 # AlgoToArchitecture 🚀
 
-From **Data Structures & Algorithms** to **Low-Level Design**, **Design Patterns**, **SOLID principles**, and **System Design** — this repository is a structured Java backend interview preparation playbook.
+## 🎯 Goals
 
-Built for mastering:
-- NeetCode 150 (DSA)
-- Low-Level Design (LLD)
-- Design Patterns (GoF)
-- SOLID Principles
-- System Design fundamentals
+- Build strong problem-solving fundamentals
+- Design clean, extensible systems
+- Practice real-world backend architecture patterns
+- Prepare for senior backend engineering interviews
 
-This repo reflects real-world backend engineering practices and is designed for product-based company interviews.
+
+## 🛠 Tech Stack
+
+-Java
+-Data Structures and Algorithms
+-System Design 
+  -LLD
+  -HLD
+-Design Patterns & SOLID principles
+
