@@ -1,4 +1,4 @@
-package com.pooja.interviewprep.dsa.neetcode150.arrays;
+package com.pooja.interviewprep.dsa.neetcode150.arraysHashing;
 
 import java.util.*;
 
