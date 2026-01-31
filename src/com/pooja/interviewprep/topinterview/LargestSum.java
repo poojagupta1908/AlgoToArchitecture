@@ -52,7 +52,7 @@ public class LargestSum {
                 currentMax = num;
                 tempStart = i;
             } else {
-                currentMax = currentMax + num;
+                currentMax = currentMax + num; //extend
             }
 
             // Update global max and indices
