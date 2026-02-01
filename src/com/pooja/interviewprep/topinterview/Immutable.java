@@ -2,6 +2,11 @@ package com.pooja.interviewprep.topinterview;
 
 import java.util.Date;
 
+/*
+•	Immutable classes are thread-safe (no need for synchronization).
+•	Easier to cache and reuse objects.
+•	Examples in Java: String, Integer, LocalDate, BigDecimal.
+*/
 public class Immutable {
 
     public static void main(String[] args) {
